@@ -1,4 +1,5 @@
 print ("Чо")
 print("Чо")
-print ("Чо???")
-print ("Чо2333")
+print ("Чо")
+print ("Чо2")
+
